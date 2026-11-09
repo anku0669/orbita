@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+bin/
+dist/
+coverage.out
+*.test
+*.exe
+*.dmg
+*.deb
+*.rpm
+*.msi
